@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|c:\\users\\qalam\\source\\repos\\projectosh14\\projectosh14\\loggedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\loggedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\loggedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\loggedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\catalogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\catalogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\projectosh14\\catalogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B383F-0B92-4020-BF5B-CE5846F15932}|ProjectOSh14\\ProjectOSh14.csproj|solutionrelative:projectosh14\\catalogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\DB.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\DB.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\DB.cs",
+              "RelativeToolTip": "ProjectOSh14\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:47:17.695Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\RegisterForm.cs",
+              "RelativeToolTip": "ProjectOSh14\\RegisterForm.cs",
+              "ViewState": "AQIAABMBAAAAAAAAAAAswDIBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:10:13.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectOSh14\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:51:49.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HistoryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\HistoryForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\HistoryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectOSh14\\HistoryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:38:08.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\OrderForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\OrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectOSh14\\OrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:42:39.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\MainForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\MainForm.cs",
+              "RelativeToolTip": "ProjectOSh14\\MainForm.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAIwJ0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:44:03.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoggedForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\LoggedForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\LoggedForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\LoggedForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectOSh14\\LoggedForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:11:01.818Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoggedForm.cs",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\LoggedForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\LoggedForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\LoggedForm.cs",
+              "RelativeToolTip": "ProjectOSh14\\LoggedForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:20:48.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\MainForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectOSh14\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:30:55.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\LoginForm.cs",
+              "RelativeToolTip": "ProjectOSh14\\LoginForm.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwKoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:01:21.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectOSh14\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:09:27.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\HistoryForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\HistoryForm.cs",
+              "RelativeToolTip": "ProjectOSh14\\HistoryForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:37:23.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "ProjectOSh14\\RegisterForm.Designer.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAIAwwAcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:15:31.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CatalogForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\CatalogForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\CatalogForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\CatalogForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectOSh14\\CatalogForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:26:52.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CatalogForm.cs",
+              "DocumentMoniker": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\CatalogForm.cs",
+              "RelativeDocumentMoniker": "ProjectOSh14\\CatalogForm.cs",
+              "ToolTip": "C:\\Users\\Qalam\\source\\repos\\ProjectOSh14\\ProjectOSh14\\CatalogForm.cs",
+              "RelativeToolTip": "ProjectOSh14\\CatalogForm.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAArwBwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:27:01.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
